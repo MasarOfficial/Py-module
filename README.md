@@ -9,8 +9,7 @@ add to dist this files:
 python_plus-1.0.tar.gz
 python_plus-1.0-py3-none-any.whl
 
-make another folder and name Files
-in this file you need to make your files
+Write a code in file python_plus
 
 ## Installation
 
